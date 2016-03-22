@@ -11,6 +11,6 @@ public class MapNumberTest {
     @Test
     public void testMapNumber() throws Exception {
         MapNumber mapTest = new MapNumber();
-        assertThat("deux",is(equalTo(mapTest.getNumberWord(2))));
+        assertThat("trois",is(equalTo(mapTest.getNumberWord(2))));
     }
 }
