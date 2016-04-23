@@ -15,7 +15,7 @@ public class ListExo {
             CircleRadius = Math.random();
         }
         for (Circle myCircle : CircleList) {
-            System.out.printf("myCircle is = %f %n",myCircle.getSurface());
+            System.out.printf("myCircle = %f %n",myCircle.getSurface());
         }
     }
 }
