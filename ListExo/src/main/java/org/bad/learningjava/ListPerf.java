@@ -40,7 +40,7 @@ public class ListPerf {
 
     public static void accessList(List<String> varList){
         int startIndex = listSize/2;
-        String entry = new String();
+        String entry = "";
         for (int i = startIndex; i <(startIndex+loopNumber) ; i++) {
             entry = varList.get(i);
         }
