@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: org.bad.learningjava.AppTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.052 sec
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.057 sec
+>>>>>>> bccc5f3fc30cfe7482cabcc24670188ea43b43a1
